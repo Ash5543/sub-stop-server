@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Ash5543/sub-stop-server#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }

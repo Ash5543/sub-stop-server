@@ -1,0 +1,22 @@
+h1{
+    color:#7BA098;
+    text-align: center;
+}
+body{
+    background-color: #7BA098;
+}
+div{
+    background-color: #fbfaf5;
+    padding:10px;
+    border-radius: 30px;
+    border: 5px solid #545677;
+}
+a{
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+    color:#7BA098;
+}
+a:hover{
+    color:#545677;
+}
